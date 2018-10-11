@@ -8,7 +8,8 @@
 
 - 站在巨人的肩膀上
 - 基于python，这个小程序是用python写的
-- 使用的是python第三方库itchat，itchat模块是一位叫`littlecodersh`的大神写的模块，附上大神的github地址https://github.com/littlecodersh/ItChat，有兴趣的朋友可以去尝试玩一下itchat模块，很有趣的！！！
+- 使用的是python第三方库itchat，itchat模块是一位叫`littlecodersh`的大神写的模块，附上大神的github地址,有兴趣的朋友可以去尝试玩一下itchat模块，很有趣的！！！https://github.com/littlecodersh/ItChat
+
 
 ### 准备
 

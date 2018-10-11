@@ -84,7 +84,7 @@ while True:
 - 打开CMD终端
 
 - 输入python
-- 将wechat_bomb.py文件拖入终端
+- 将We.py文件拖入终端
 - 按回车
 
 - 扫一下弹出来的二维码，确认登录微信
